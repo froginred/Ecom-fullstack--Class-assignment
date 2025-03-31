@@ -1,1 +1,2 @@
-This is the repo for Nitsan Salton's assignment
+This is the repo for Nitsan Salton's assignment in Ecom
+
